@@ -1,0 +1,13 @@
+{
+  "name": "student-registration-system",
+  "version": "1.0.0",
+  "description": "Simple student registration system with Node.js and SQLite.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "express": "^4.21.2"
+  }
+}
